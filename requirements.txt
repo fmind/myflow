@@ -6,4 +6,4 @@ pandas
 papermill
 plotly_express
 tensorflow-probability
-tensorflow>=2.0.0
+tensorflow==2.0.0b1
