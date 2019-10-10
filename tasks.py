@@ -9,6 +9,7 @@ def venv(c, force=False):
         return None
     c.run("python3 -m venv venv --clear")
     c.run("venv/bin/pip install --requirement requirements.txt")
+    c.run("venv/bin/jupyter nbextension enable --py widgetsnbextension")
 
 
 @task(venv)

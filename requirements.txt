@@ -1,9 +1,12 @@
 ipython
+ipywidgets
 jupyterlab
 matplotlib
 numpy
 pandas
 papermill
 plotly_express
+tensorflow-datasets
+tensorflow-hub
 tensorflow-probability
 tensorflow==2.0.0b1
