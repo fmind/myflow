@@ -6,6 +6,7 @@ numpy
 pandas
 papermill
 plotly_express
+seaborn
 tensorflow-datasets
 tensorflow-hub
 tensorflow-probability
