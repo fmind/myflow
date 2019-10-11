@@ -7,6 +7,7 @@ pandas
 papermill
 plotly_express
 seaborn
+sklearn
 tensorflow-datasets
 tensorflow-hub
 tensorflow-probability
