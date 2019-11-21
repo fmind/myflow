@@ -12,3 +12,4 @@ tensorflow-datasets
 tensorflow-hub
 tensorflow-probability
 tensorflow==2.0.0b1
+transformers
